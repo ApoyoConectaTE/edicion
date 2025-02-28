@@ -1,8 +1,7 @@
-const credencial =
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIk9-wyk1WyU_4lTWjLucuXSHAYXGsgu0gAhynPQXccaPfe6ANyGtcxPf1jcLDX0dA2Eb9OiE8N5T5/pub?gid=0&single=true&output=csv";
+const credencial = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQJENvgh8Q64AZ-QbYDIlZUI041Z1mNzHv4mx2FefUh3idawMaGxeZh6lfLmW8j2Q/pub?output=csv";
 
 const cursos =
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIk9-wyk1WyU_4lTWjLucuXSHAYXGsgu0gAhynPQXccaPfe6ANyGtcxPf1jcLDX0dA2Eb9OiE8N5T5/pub?gid=1938613270&single=true&output=csv";
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQJENvgh8Q64AZ-QbYDIlZUI041Z1mNzHv4mx2FefUh3idawMaGxeZh6lfLmW8j2Q/pub?gid=1067277240&single=true&output=csv";
 
 window.addEventListener("DOMContentLoaded", init);
 
